@@ -31,3 +31,4 @@ print(player.hp)
 monster.attack(player)
 
 print(player.hp)
+print(monster.dmg)
