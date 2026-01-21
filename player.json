@@ -1,0 +1,7 @@
+{
+    "name": "Artem",
+    "hp": 100, 
+    "min_dmg": 10,
+    "max_dmg": 15,
+    "exp": 0
+}
